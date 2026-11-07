@@ -2,7 +2,6 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Jhenifer Cambell - Software Engineering Student" />
 </p>
-![Uploading banner_jhenifer_cambell.png…]()
 
 <h2 align="center">Sobre mim</h2>
 
