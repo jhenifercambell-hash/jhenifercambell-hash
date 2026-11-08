@@ -1,77 +1,71 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="./banner_jhenifer_cambell.png" width="100%" alt="Jhenifer Cambell - Software Engineering"/>
+</p>
+
+<h2 align="center">
+  SOFTWARE ENGINEERING STUDENT | UNICID
+</h2>
 
 <p align="center">
-  <img src="./banner_jhenifer_cambell.png" width="100%" />
+  Construindo meu caminho na tecnologia, uma linha de código por vez.
 </p>
-
-<h3 align="center">Software Engineering Student | UNICID</h3>
 
 <p align="center">
-  Estudando, desenvolvendo projetos e construindo minha trajetória na tecnologia.
-</p>
-
----
-
-## About me
-
-Olá! Sou Jhenifer Cambell, estudante de Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
-
-Atualmente, estou desenvolvendo meus conhecimentos em programação, desenvolvimento de sistemas e ferramentas utilizadas na área de tecnologia.
-
-Tenho interesse em Cibersegurança e Desenvolvimento Front-end e busco aprender por meio de estudos e projetos práticos.
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode&theme=dark" />
-</p>
-
-**Currently learning:** Linguagem C, HTML, CSS, Git e GitHub.
-
----
-
-## Areas of Interest
-
-- Cybersecurity
-- Front-end Development
-- Software Development
-- Programming
-
----
-
-## Academic Background
-
-**Universidade Cidade de São Paulo — UNICID**
-
-Bacharelado em Engenharia de Software | Em andamento.
-
----
-
-## Featured Projects
-
-Projetos acadêmicos e pessoais desenvolvidos durante minha formação.
-
-<p align="left">
-  <a href="https://github.com/jhenifercambell-hash?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jhenifercambell-hash">
+    <img src="https://img.shields.io/badge/GitHub-jhenifercambell--hash-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhenifer-rosa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jhenifer%20Cambell-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## GitHub Statistics
+## `01` — About me
+
+Oi! Eu sou a **Jhenifer Cambell**, estudante de Engenharia de Software na UNICID.
+
+Minha jornada na tecnologia está em construção — e é justamente isso que torna cada etapa interessante. Gosto de entender como as coisas funcionam por trás da tela, descobrir a lógica por trás de um código e transformar o que aprendo em algo prático.
+
+Não estou aqui para fingir que já sei tudo. Estou aqui para aprender, experimentar, errar, corrigir e evoluir. Acredito que cada projeto, exercício e desafio faz parte da profissional que estou construindo.
+
+Tenho um interesse especial por **Cibersegurança** e **Desenvolvimento Front-end**. São áreas que despertam minha curiosidade e que quero explorar cada vez mais durante minha formação.
+
+---
+
+## `02` — Academic background
+
+**Universidade Cidade de São Paulo — UNICID**
+
+- Curso: Engenharia de Software
+- Formação em andamento
+- Estudos envolvendo lógica de programação, desenvolvimento, banco de dados e fundamentos da computação.
+
+---
+
+## `03` — Tech stack
+
+Tecnologias que fazem parte dos meus estudos e da minha evolução:
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhenifercambell-hash&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&icon_color=bb9af7" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenifercambell-hash&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7" />
+  <img src="https://img.shields.io/badge/Em%20aprendizado-Programming-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Em%20prática-Front--end-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Explorando-Cybersecurity-6A0DAD?style=flat-square"/>
 </p>
 
 ---
 
-<p align="center">
-  <i>Always learning. Always evolving.</i>
-</p>
+## `04` — Currently exploring
+
+```text
+> Linguagem C
+> Lógica de programação
+> HTML e CSS
+> Git e GitHub
+> Desenvolvimento Front-end
+> Fundamentos de Cibersegurança
