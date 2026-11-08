@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="./banner_jhenifer_cambell.png" width="100%"/> "Jhenifer Cambell - Software Engineering Student" />
+<img src="./banner_jhenifer_cambell.png" width="100%" "Jhenifer Cambell - Software Engineering Student" />
 </p>
 
 <h2 align="center">Sobre mim</h2>
